@@ -8,6 +8,10 @@ Qedit is a browser, code editor, and terminal in one app. It brings browsing, co
 - **Code editor** - A high-performance editor with native macOS and Windows support.
 - **Terminal** - A fully integrated terminal for development workflows.
 
+## Getting started
+
+See [Getting Started](./docs/src/getting-started.md) for essential commands, environment setup, and navigation basics.
+
 ## Building
 
 - [Build Qedit for macOS](./docs/src/development/macos.md)
